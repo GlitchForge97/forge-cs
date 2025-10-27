@@ -133,6 +133,6 @@ Thank you to everyone who has contributed ideas, code, and feedback. ForgeCalc e
 
 ---
 
-**Made with ❤️ for the mathematical community**
+**Made by GlitchForge**
 
 *ForgeCalc — Where calculations meet elegance*
